@@ -2,7 +2,7 @@
 <hr><img align="right" height="130" src="https://media0.giphy.com/media/B1uajA01vvL91Urtsp/giphy.gif?cid=ecf05e47inwxgbupkc8nwt3h70dkohlrrehy4ht8zmnlhu09&rid=giphy.gif&ct=g"/>
 <div style="display: inline_block"><br>
 💻 - Desenvolvedor Full Stack <br>
-📚 - Estudante de Engenharia de Computação no IFTM de Uberaba! <br>
+📚 - Engenheiro de Computação - IFTM campus CAUPT! <br>
 🎸 - Nas horas vagas, gosto muito de escutar um Rock e jogar um pouco!!
 </div>
 
